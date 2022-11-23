@@ -24,3 +24,7 @@ async function getContact(contactId) {
   getContact(2).then((contact) => {
     console.log("Contact: ", JSON.stringify(contact));
   });
+
+  //added a note 
+
+  //added another 
